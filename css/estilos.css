@@ -1,0 +1,76 @@
+
+
+body {
+    background-color: #cbcbcb;
+    font-family: "Raleway", sans-serif;
+    font-size:20px;
+    
+}
+
+header {
+display: flex;
+justify-content:center;
+align-items:center;
+font-family: "Raleway", sans-serif;
+
+}
+
+img {
+border-radius:10%;
+width:40%;
+display: block;
+margin:auto;
+}
+
+
+ul,
+h2,
+h1 {
+
+    font-family: "Raleway", sans-serif;
+;
+    
+}
+
+
+h2,h1 {
+    font-family: "Abril Fatface", serif;
+  text-align:Left;
+  font-weight: 500;
+  color: #ff5aa4;
+  font-size: 30px;
+ 
+}
+
+h1{
+text-align: center;
+font-size:60px;
+
+
+}
+
+a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+
+section {
+    font-size:20px;
+}
+
+a:hover {
+
+    text-decoration: underline;
+}
+
+
+
+#vinculo {
+    color: #ffffff;
+}
+
+
+
+
+
